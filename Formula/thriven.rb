@@ -2,7 +2,7 @@ class Thriven < Formula
   desc "Cognitive Operating System for Claude — skill activation, epistemic gating, hybrid DB"
   homepage "https://github.com/thrive-intelligence/thriven"
   license "Proprietary"
-  version "1.0.1"
+  version "1.1.0"
 
   # No source URL — installs from private PyPI (Gemfury)
   # Homebrew needs a URL, so we use a minimal bootstrap script
